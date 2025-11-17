@@ -1,0 +1,23 @@
+{
+  "name": "web-app-jira-demoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhimbazwa/web-app-jira-demoo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhimbazwa/web-app-jira-demoo/issues"
+  },
+  "homepage": "https://github.com/rhimbazwa/web-app-jira-demoo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
